@@ -1,0 +1,15 @@
+C:\Users\Administrador\source\repos\pruebarepo\Pruebagit\Pruebagit\bin\Debug\netcoreapp3.1\Pruebagit.exe
+C:\Users\Administrador\source\repos\pruebarepo\Pruebagit\Pruebagit\bin\Debug\netcoreapp3.1\Pruebagit.deps.json
+C:\Users\Administrador\source\repos\pruebarepo\Pruebagit\Pruebagit\bin\Debug\netcoreapp3.1\Pruebagit.runtimeconfig.json
+C:\Users\Administrador\source\repos\pruebarepo\Pruebagit\Pruebagit\bin\Debug\netcoreapp3.1\Pruebagit.runtimeconfig.dev.json
+C:\Users\Administrador\source\repos\pruebarepo\Pruebagit\Pruebagit\bin\Debug\netcoreapp3.1\Pruebagit.dll
+C:\Users\Administrador\source\repos\pruebarepo\Pruebagit\Pruebagit\bin\Debug\netcoreapp3.1\Pruebagit.pdb
+C:\Users\Administrador\source\repos\pruebarepo\Pruebagit\Pruebagit\obj\Debug\netcoreapp3.1\Pruebagit.csprojAssemblyReference.cache
+C:\Users\Administrador\source\repos\pruebarepo\Pruebagit\Pruebagit\obj\Debug\netcoreapp3.1\Pruebagit.Form2.resources
+C:\Users\Administrador\source\repos\pruebarepo\Pruebagit\Pruebagit\obj\Debug\netcoreapp3.1\Pruebagit.csproj.GenerateResource.cache
+C:\Users\Administrador\source\repos\pruebarepo\Pruebagit\Pruebagit\obj\Debug\netcoreapp3.1\Pruebagit.AssemblyInfoInputs.cache
+C:\Users\Administrador\source\repos\pruebarepo\Pruebagit\Pruebagit\obj\Debug\netcoreapp3.1\Pruebagit.AssemblyInfo.cs
+C:\Users\Administrador\source\repos\pruebarepo\Pruebagit\Pruebagit\obj\Debug\netcoreapp3.1\Pruebagit.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\pruebarepo\Pruebagit\Pruebagit\obj\Debug\netcoreapp3.1\Pruebagit.dll
+C:\Users\Administrador\source\repos\pruebarepo\Pruebagit\Pruebagit\obj\Debug\netcoreapp3.1\Pruebagit.pdb
+C:\Users\Administrador\source\repos\pruebarepo\Pruebagit\Pruebagit\obj\Debug\netcoreapp3.1\Pruebagit.genruntimeconfig.cache
